@@ -1,1 +1,1 @@
-_G.Down = true
+_G.Down = nil
